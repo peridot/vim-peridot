@@ -14,7 +14,7 @@ syntax keyword peridotKeywords
 
 syn keyword peridotExceptions try catch throw
 
-syn keyword peridotBuiltins println print eval
+syn keyword peridotBuiltins println print eval exit
 
 syntax keyword peridotBoolean true false
 syn keyword peridotNull null
